@@ -14,4 +14,8 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
+![screen shot of my website](./assets/images/Challenge-2-screenshot.jpg)
+
+
+Link to deployed website
 https://chevar1987.github.io/Challenge-2/
